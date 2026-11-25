@@ -9,9 +9,9 @@ A remake of Battle: Los Angeles remake in Crysis 2 and CryEngine 3 technology as
 [https://api.github.com/repos/igiteam/crysis2-battle-los-angeles/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/crysis2-battle-los-angeles/git/trees/main?recursive=1)
 
 ## Base Gameplay
-[![CRYSIS 2](https://img.youtube.com/vi/iHsqqgvwUxk/maxresdefault.jpg)](https://www.youtube.com/watch?v=iHsqqgvwUxk)
+[![CRYSIS 2](https://i.ytimg.com/vi/cbNg1W9aIgg/hqdefault.jpg)](https://www.youtube.com/watch?v=iHsqqgvwUxk)
 
-[![Battle: Los Angeles](https://img.youtube.com/vi/lsRUeqm6WaI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?bHNSVWVxbTZXYUk)
+[![Battle Los Angeles](https://i.ytimg.com/vi/Ik1Cd1KVhpM/hqdefault.jpg)](https://ytembed.macosxjs.com/?bHNSVWVxbTZXYUk)
 
 [![Battle Los Angeles Aliens Invade Los Angeles](https://img.youtube.com/vi/UZkH0whloAg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VVprSDB3aGxvQWc)
 
