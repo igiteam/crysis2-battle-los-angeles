@@ -1,5 +1,5 @@
 # crysis2-battle-los-angeles
-Crysis 2 – Battle: Los Angeles Remake
+## Crysis 2 – Battle Los Angeles Remake
 A remake of Battle: Los Angeles remake in Crysis 2 and CryEngine 3 technology as the technical base.
 
 ## Github Treeview
