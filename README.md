@@ -25,7 +25,9 @@ A remake of Battle: Los Angeles remake in Crysis 2 and CryEngine 3 technology as
 ## Reference Links
 [https://archive.org/details/crysis-2_202510](https://archive.org/details/crysis-2_202510)
 
-[![Battle Los Angeles](https://raw.githubusercontent.com/igiteam/crysis2-battle-los-angeles/refs/heads/main/battle-lost-angeles.png)](https://archive.org/details/battle-los-angeles)
+[https://archive.org/download/battle-los-angeles_202611](https://archive.org/download/battle-los-angeles_202611)
+
+[![Battle Los Angeles](https://raw.githubusercontent.com/igiteam/crysis2-battle-los-angeles/refs/heads/main/battle-lost-angeles.png)](https://archive.org/download/battle-los-angeles_202611)
 
 [![Crysis2](https://raw.githubusercontent.com/igiteam/crysis2-battle-los-angeles/refs/heads/main/crysis-2.png)](https://archive.org/details/crysis-2_202510)
 
